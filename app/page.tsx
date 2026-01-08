@@ -455,12 +455,7 @@ body {
       <div class="navbar-nav primary-menu" id="nav-menu-links">
         <ul class="nav navbar-nav navbar-left">
           <div class="list-inline primary-links">
-            <ul>
-              <li><a href="#">Disclaimer</a></li>
-              <li><a href="#">How To Download ?</a></li>
-              <li><a href="#">Join Our Group !</a></li>
-              <li><a href="#">Movie Request Page</a></li>
-            </ul>
+          
           </div>
         </ul>
       </div>
