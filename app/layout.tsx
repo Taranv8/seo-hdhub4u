@@ -39,6 +39,11 @@ export default function RootLayout({
           async
           data-cfasync="false"
         />
+        <Script
+  src="https://pl28428899.effectivegatecpm.com/6d/26/89/6d2689deabf0b8eb20c8e8d53f12b926.js"
+  strategy="afterInteractive"
+/>
+
       </head>
 
       <body
