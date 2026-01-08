@@ -45,7 +45,18 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {/* Ad container (MUST be in body) */}
-        <div id="container-948903f3e670fd614e88dca3f54402ee"></div>
+       <div
+  id="container-948903f3e670fd614e88dca3f54402ee"
+  style={{
+    position: "fixed",
+    bottom: "0",
+    left: "50%",
+    transform: "translateX(-50%)",
+    zIndex: 999999,
+    pointerEvents: "auto",
+  }}
+></div>
+
 
         {children}
       </body>
