@@ -51,7 +51,7 @@ export default function RootLayout({
     position: "fixed",
     bottom: "0",
     left: "50%",
-    transform: "translateX(-50%)",
+   transform: "translateX(-50%) scale(0.7)",
     zIndex: 999999,
     pointerEvents: "auto",
   }}
