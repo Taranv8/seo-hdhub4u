@@ -48,10 +48,11 @@ export default function RootLayout({
        <div
   id="container-948903f3e670fd614e88dca3f54402ee"
   style={{
-    position: "fixed",
-    bottom: "0",
-    left: "50%",
-   transform: "translateX(-50%) scale(0.7)",
+     position: "fixed",
+    bottom: "16px",
+    right: "16px",          // 👉 push to right
+    transform: "scale(0.45)", // 👉 reduce size MORE
+    transformOrigin: "bottom right",
     zIndex: 999999,
     pointerEvents: "auto",
   }}
